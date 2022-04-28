@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid dd70541c-ed72-41a4-b278-03a490cbdaf1)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "Inverting Single Opamp -- SOIC8")
+    (date "2022-04-28")
+    (rev "0.1")
+    (company "HugonLabs")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
