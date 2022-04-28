@@ -1,0 +1,7 @@
+*-backups/
+.*~
+gerbers/*.zip
+*.bak
+\#auto_saved_files#
+.*.swp
+*.png
