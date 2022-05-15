@@ -11,3 +11,5 @@ Example parts:
 - THS4011
 - LMH6654
 - OPA657
+- ADA4895-1
+- LTC6228
